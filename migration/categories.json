@@ -1,0 +1,146 @@
+[
+    {
+        "cat_name": "TELEVISIÓN",
+        "category_nicename": "television",
+        "child_categories": [
+            {
+                "cat_name": "TV Abierta",
+                "category_nicename": "tv-abierta"
+            },
+            {
+                "cat_name": "TV Paga",
+                "category_nicename": "tv-paga"
+            },
+            {
+                "cat_name": "Ratings",
+                "category_nicename": "ratings"
+            },
+            {
+                "cat_name": "Producción",
+                "category_nicename": "produccion-television"
+            },
+            {
+                "cat_name": "Plataformas",
+                "category_nicename": "plataformas"
+            },
+            {
+                "cat_name": "Redes",
+                "category_nicename": "redes"
+            },
+            {
+                "cat_name": "Premios PRODU",
+                "category_nicename": "premios-produ"
+            },
+            {
+                "cat_name": "Doblaje",
+                "category_nicename": "doblaje"
+            },
+            {
+                "cat_name": "Niños & animacion",
+                "category_nicename": "ninos-animacion"
+            },
+            {
+                "cat_name": "Punto de vista",
+                "category_nicename": "punt-de-vista"
+            }
+        ]
+    },
+    {
+        "cat_name": "MERCADEO",
+        "category_nicename": "mercadeo",
+        "child_categories": [
+            {
+                "cat_name": "FIAP",
+                "category_nicename": "fiap"
+            },
+            {
+                "cat_name": "Multicultural",
+                "category_nicename": "multicultural-mercadeo"
+            },
+            {
+                "cat_name": "Agencia",
+                "category_nicename": "agencia"
+            },
+            {
+                "cat_name": "Latinoamérica",
+                "category_nicename": "latinoamerica"
+            },
+            {
+                "cat_name": "Marca",
+                "category_nicename": "marca"
+            },
+            {
+                "cat_name": "Opinión",
+                "category_nicename": "opinion"
+            }
+        ]
+    },
+    {
+        "cat_name": "TECNOLOGÍA",
+        "category_nicename": "tecnologia",
+        "child_categories": [
+            {
+                "cat_name": "Imagen y Audio",
+                "category_nicename": "imagen-y-audio"
+            },
+            {
+                "cat_name": "Transmisión",
+                "category_nicename": "transmision"
+            },
+            {
+                "cat_name": "Sóftwer y Apps",
+                "category_nicename": "softwer-y-apps"
+            },
+            {
+                "cat_name": "Canales Propios",
+                "category_nicename": "canales-propios"
+            },
+            {
+                "cat_name": "Premios",
+                "category_nicename": "premios"
+            }
+        ]
+    },
+    {
+        "cat_name": "SOSTENIBILIDAD",
+        "category_nicename": "sostenibilidad",
+        "child_categories": [
+            {
+                "cat_name": "Contenido",
+                "category_nicename": "contenido"
+            },
+            {
+                "cat_name": "Producción",
+                "category_nicename": "produccion-sostenibilidad"
+            },
+            {
+                "cat_name": "Protagonistas",
+                "category_nicename": "protagonistas"
+            }
+        ]
+    },
+    {
+        "cat_name": "ENGLISH",
+        "category_nicename": "english",
+        "child_categories": [
+            {
+                "cat_name": "Multicultural",
+                "category_nicename": "multicultural"
+            },
+            {
+                "cat_name": "US Hispanic TV",
+                "category_nicename": "us-hispanic-tv"
+            }
+        ]
+    },
+    {
+        "cat_name": "HOME",
+        "category_nicename": "home",
+        "child_categories": []
+    },
+    {
+        "cat_name": "Sin categoría",
+        "category_nicename": "sin-categoria",
+        "child_categories": []
+    }
+]

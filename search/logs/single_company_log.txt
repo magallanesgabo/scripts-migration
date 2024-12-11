@@ -1,0 +1,49 @@
+Procesando Post ID: 220312
+Direccion: 5a. avenida 16-62, zona 10, Edificio Platina 4o. Nivel, Oficina 403, 01010. 
+Codigo Postal: 01010
+State: n/a
+City: n/a
+Country: Guatemala
+Contacts Raw Data: Array
+(
+    [0] => Array
+        (
+            [contact_type] => 328
+            [valor] => +5022441-5041
+        )
+
+    [1] => Array
+        (
+            [contact_type] => 332
+            [valor] => comunidad@comunidadguatemala.com
+        )
+
+)
+
+Company Info Final: 5a. avenida 16-62, zona 10, Edificio Platina 4o. Nivel, Oficina 403, 01010. , 01010, n/a, n/a, Guatemala
+Proceso completado para Post ID: 220312
+Procesando Post ID: 220312
+Direccion: 5a. avenida 16-62, zona 10, Edificio Platina 4o. Nivel, Oficina 403, 01010. 
+Codigo Postal: 01010
+State: n/a
+City: n/a
+Country: Guatemala
+Contacts Raw Data: Array
+(
+    [0] => Array
+        (
+            [contact_type] => 328
+            [valor] => +5022441-5041
+        )
+
+    [1] => Array
+        (
+            [contact_type] => 332
+            [valor] => comunidad@comunidadguatemala.com
+        )
+
+)
+
+Contacts Info: +5022441-5041, comunidad@comunidadguatemala.com
+Company Info Final: 5a. avenida 16-62, zona 10, Edificio Platina 4o. Nivel, Oficina 403, 01010. , 01010, n/a, n/a, Guatemala, +5022441-5041, comunidad@comunidadguatemala.com
+Proceso completado para Post ID: 220312

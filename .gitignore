@@ -1,0 +1,5 @@
+migration/db/*
+tools/output/*
+
+migration/logs/*
+migration/*.txt 
